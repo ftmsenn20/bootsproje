@@ -1,2 +1,1 @@
-<h1>bs proje</h1>
- ![](bsGif.gif)
+# proje-5-bs-24.08.22
