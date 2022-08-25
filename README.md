@@ -1,2 +1,2 @@
-![](bsGif.gif)
 # bootproje
+# bootsproje
